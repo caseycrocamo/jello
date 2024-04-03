@@ -1,0 +1,14 @@
+{
+  "name": "jello",
+  "version": "1.0.0",
+  "description": "note taking + task board in vim",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "abi smith & casey crocamo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  }
+}
